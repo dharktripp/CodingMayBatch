@@ -1,0 +1,38 @@
+form{
+width: 50%;
+height: 100%;
+font-family: Arial;
+font-display: white;
+justify-content: center;
+}
+.form1{
+border: 3px solid black;
+border-radius: 10px 10px;
+width: 80%;
+height:80%;
+justify-content: center;
+
+}
+input[type=text],input[type=email]{
+   width: 70%;
+   margin:8px 0;
+   padding:12px 20px;
+display: inline-block;
+border: 1px solid black;
+text-align: center;
+border-radius: 10px 10px;
+
+}
+button{
+    padding: 20px;
+    border: 3px solid black;
+border-radius: 10px 10px;
+position: left ,right;
+}
+head{
+    text-align: center;
+}
+img{
+    border: none;
+    border-radius: 10px 10px;
+}
